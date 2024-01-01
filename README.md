@@ -24,7 +24,7 @@ Have a script which displays the top 5 topics currently in the news for a given 
 
 ## Task 2 - Gather relevant discussions
 For each of the topics found out in task 1, gather current discussions happening on public forums.  
-For the purpose of this task, let Twitter be your information source. You can access free Twitter APIs easily to scrape information from it.  
+For the purpose of this task, let Reddit be your information source. You can access free Reddit APIs easily to scrape information from it.  
 
 Note: for each source, there could be multiple discussions that you gather.
 
