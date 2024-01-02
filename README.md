@@ -44,7 +44,7 @@ The webpage should have a form which accepts the city name, and preferably shows
 Given these inputs, show the results from Task 3.
 
 ## Instructions to submit your work
-- Do not fork this repo. Work on a local copy. Add the username `shashank-srikant` as a collaborator, so that Shashank can access the repo as well.
+- Do not fork this repo. Work on a local copy, and ensure this is a private repository. Add the username `shashank-srikant` as a collaborator, so that Shashank can access the repo as well.
 - Make it a habit to push changes upstream to your repo as frequently as feasible.
 - Use `Python3.8+` for this work.
 - We greatly value reproducability of results. Use `conda` to create an environment and set up your repository. 
